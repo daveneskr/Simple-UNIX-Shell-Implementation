@@ -1,0 +1,9 @@
+# Build files
+*.o
+my_shell
+
+# Archives
+*.tar.gz
+
+# macOS
+.DS_Store
